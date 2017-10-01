@@ -19,11 +19,6 @@ header
     margin-right: 10px;
 }
 
-#title
-{
-
-}
-
 #buttonInvite
 {
     float: right;
@@ -39,11 +34,17 @@ header
 #buttonInvite:hover 
 {
     background-color: #1f2228;
+    cursor: not-allowed;
 }
 
-#commands
+article
 {
     margin-top: 50px;
     border: 1px white solid;
-    padding: 20px;
+    padding: 50px;
+}
+
+#kathelp
+{
+    float: right;
 }
