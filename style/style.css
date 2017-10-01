@@ -1,0 +1,49 @@
+body
+{
+    background-color: #2a2d32;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+header
+{
+    background-color: #7289da;
+    width: auto;
+    height: auto;
+    padding: 10px;
+}
+
+#KataIcon
+{
+    float: left;
+    margin-right: 10px;
+}
+
+#title
+{
+
+}
+
+#buttonInvite
+{
+    float: right;
+    color: white;
+    background-color: #2e3136;
+    border: none;
+    padding: 20px;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-right: 3%;
+}
+
+#buttonInvite:hover 
+{
+    background-color: #1f2228;
+}
+
+#commands
+{
+    margin-top: 50px;
+    border: 1px white solid;
+    padding: 20px;
+}
