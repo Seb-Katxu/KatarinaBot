@@ -1,0 +1,14 @@
+{
+  "name": "katarinabot",
+  "version": "1.0.0",
+  "description": "a private bot for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "kat!help"
+  },
+  "author": "Seb / Katxu",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
